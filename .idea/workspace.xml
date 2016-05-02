@@ -2,83 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ccd3db23-31be-40d4-8372-db5945873ff3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/src/dependencies.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/node_modules/commander/node_modules/graceful-readlink/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/.spmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/node_modules/commander/node_modules/graceful-readlink/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/node_modules/commander/History.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/node_modules/commander/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/node_modules/commander/node_modules/graceful-readlink/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/node_modules/commander/node_modules/graceful-readlink/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/src/mock/RE_KEY.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/node_modules/commander/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/src/mock/random/address.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/src/mock/random/address_dict.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/src/mock/random/basic.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/test/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/src/mock/random/color.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/src/mock/random/color_convert.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/src/mock/random/color_dict.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/src/mock/constant.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/src/mock/random/date.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/gulpfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/src/mock/handler.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/src/mock/regexp/handler.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/src/mock/random/helper.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/src/mock/random/image.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/node_modules/commander/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/node_modules/commander/node_modules/graceful-readlink/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/src/mock/random/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/src/mock/regexp/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/src/mock/schema/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/src/mock/valid/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/src/mock/xhr/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/src/mock/random/misc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/dist/mock-min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/dist/mock-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mock.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mock.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/dist/mock.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/src/mock.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/src/mock/random/name.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/test/materiels/noop.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/test/materiels/noop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/node_modules/commander/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/node_modules/commander/node_modules/graceful-readlink/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/test/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/src/mock/parser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/src/mock/regexp/parser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/random" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/bin/random" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/third_part_js/require.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/src/mock/schema/schema.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/test/test.coveralls.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/test/test.mock.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/test/test.mock.mock.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/test/test.mock.random.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/test/test.mock.request.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/test/test.mock.schema.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/test/test.mock.spec.dpd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/test/test.mock.spec.dtd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/test/test.mock.valid.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/src/mock/random/text.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/src/mock/util.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/src/mock/valid/valid.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/test/valid.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/src/mock/random/web.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mockjs/src/mock/xhr/xhr.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="F:\html&amp;js\card\.idea\workspace.xml" afterPath="F:\html&amp;js\card\.idea\workspace.xml" />
+      <change type="DELETED" beforePath="F:\html&amp;js\card\.idea\workspace111.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/card.html" afterPath="$PROJECT_DIR$/card.html" />
     </list>
     <ignored path="card.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -109,11 +34,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="card.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="card.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/card.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.58928573">
+              <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -129,10 +54,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mock.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="mock.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mock.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.48639455">
+            <state vertical-scroll-proportion="0.0">
               <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
               <folding>
                 <element signature="n#!!doc;n#mockTest#0" expanded="false" />
@@ -169,9 +94,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/card.html" />
         <option value="$PROJECT_DIR$/mock.html" />
         <option value="$PROJECT_DIR$/mock.js" />
+        <option value="$PROJECT_DIR$/card.html" />
       </list>
     </option>
   </component>
@@ -184,8 +109,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="81" />
-    <option name="y" value="47" />
+    <option name="x" value="-247" />
+    <option name="y" value="50" />
     <option name="width" value="1923" />
     <option name="height" value="1038" />
   </component>
@@ -340,10 +265,10 @@
     <option name="totallyTimeSpent" value="2628000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="81" y="47" width="1923" height="1038" extended-state="0" />
+    <frame x="-247" y="50" width="1923" height="1038" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2488189" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2488189" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -436,14 +361,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/card.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ReadMe.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -470,11 +387,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mock.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48639455">
+        <state vertical-scroll-proportion="0.0">
           <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
           <folding>
             <element signature="n#!!doc;n#mockTest#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/card.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.58928573">
+          <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
